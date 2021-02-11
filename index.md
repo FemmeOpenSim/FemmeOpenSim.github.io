@@ -2,4 +2,4 @@ The **Femme Project** aims to provide complete and modern mesh avatars to the [O
 
 * [A bit of history](./history.md)
 * [Femme Body](./body/index.md)
-* [Femme Head](./head/index.ml)
+* [Femme Head](./head/index.md)
